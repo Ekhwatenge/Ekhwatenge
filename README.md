@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Elvira
-- 👀 I’m interested in web app,front development, 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me elvirraimmar9494@gmail.com
 
 <!---
