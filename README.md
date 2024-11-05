@@ -2,6 +2,7 @@
 - 📫 Write to me at elvirraimmar9494@gmail.com
 - I also write fun blogs here https://medium.com/@elvirakhwatenge
 - I would love it if you read my reports here:https://rpubs.com/Elvirakhwatenge
+- I recently started deploying on shiny apps here: https://elvirakhwatenge.shinyapps.io
 - I happily share some of my projects here: https://github.com/Ekhwatenge
 - I enjoy everything and anything code. I am always learning, but I also play tennis, chess, scrabble, badminton, volleyball, swimming, kayaking, and maybe hiking when I am in the mood.I also spend a lot of time with my grandfather chatting.
 
