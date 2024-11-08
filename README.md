@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eng. Elvira Khwatenge (Kenyan)
+- 👋 Hi, I’m Eng. Elvira Khwatenge
 - 📫 Write to me at elvirraimmar9494@gmail.com
 - I also write fun blogs here https://medium.com/@elvirakhwatenge
 - I would love it if you read my data reports here:https://rpubs.com/Elvirakhwatenge
