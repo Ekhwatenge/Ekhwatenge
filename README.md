@@ -4,6 +4,7 @@
 - I would love it if you read my data reports here:https://rpubs.com/Elvirakhwatenge
 - I recently started deploying on shiny apps here: https://elvirakhwatenge.shinyapps.io
 - I happily share some of my projects here: https://github.com/Ekhwatenge
+- I love Salesforce and you can check my skills here https://www.salesforce.com/trailblazer/ekhwatenge1 
 - I enjoy everything and anything code. I am always learning, but I also play tennis, chess, scrabble, badminton, volleyball, swimming, kayaking, and maybe hiking when I am in the mood.I also spend a lot of time with my grandfather chatting.
 
 <!---
