@@ -5,7 +5,9 @@
 - I recently started deploying on shiny apps here: https://elvirakhwatenge.shinyapps.io
 - I happily share some of my projects here: https://github.com/Ekhwatenge
 - I love Salesforce and you can check my skills here https://www.salesforce.com/trailblazer/ekhwatenge1 
-- I enjoy everything and anything code. I am always learning, but I also play tennis, chess, scrabble, badminton, volleyball, swimming, kayaking, and maybe hiking when I am in the mood.I also spend a lot of time with my grandfather chatting.
+I enjoy everything and anything code. I am always learning, but I also play tennis, chess, scrabble, badminton, volleyball, swimming, kayaking, and maybe hiking when I am in the mood.I also spend a lot of time chatting with my grandfather.
+- I want my community to be better so I co-founded https://www.oka4school.org/ and Humara Tennis Kenya
+- 
 
 <!---
 Ekhwatenge/Ekhwatenge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
