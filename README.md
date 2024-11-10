@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eng. Elvira Khwatenge
-- 📫 Write to me at elvirraimmar9494@gmail.com
+- 📫 Write to me at elvirraimmar9494@gmail.com or view https://about.me/elvirakhwatenge
 - I also write fun blogs here https://medium.com/@elvirakhwatenge
 - I would love it if you read my data reports here:https://rpubs.com/Elvirakhwatenge
 - I recently started deploying on shiny apps here: https://elvirakhwatenge.shinyapps.io
